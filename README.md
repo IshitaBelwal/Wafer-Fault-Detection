@@ -10,21 +10,21 @@ The inputs of various sensors for different wafers have been provided. In electr
 * 	-1 means that the wafer is faulty and it needs to be replaced. 
 
   
- <h2 align="center"><B><U> Architecture</B></U>
+ <h2 align="center"><B><U> Architecture</B></U></h2>
 
  
  
 ![image](https://user-images.githubusercontent.com/85347886/137638160-1e2932af-e0ee-4dec-a00f-8552b06a96d0.png)
-<h2>
+
  
  
 
-<h2 align="center"><B><U>Functional Architecture</B></U>
+<h2 align="center"><B><U>Functional Architecture</B></U></h2>
 ![image](https://user-images.githubusercontent.com/85347886/137639174-37f387fb-6597-473b-877c-9261ff9522b6.png)
 
  
  
-<h2 align="center"><B><U>🛠 Technology Used <h2></B></U>
+<h2 align="center"><B><U>🛠 Technology Used </h2></B></U>
  
  ```
 Python (core language)
