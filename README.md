@@ -19,12 +19,12 @@ The inputs of various sensors for different wafers have been provided. In electr
  </h2>
  
 
-<h2 align="center"><B><U>Functional Architecture</B></U></h2>
+##	Functional Architecture
 ![image](https://user-images.githubusercontent.com/85347886/137639174-37f387fb-6597-473b-877c-9261ff9522b6.png)
 
  
  
-<h2 align="center"><B><U>🛠 Technology Used </h2></B></U>
+<h2 align="center"><B><U>Technology Used </h2></B></U>
  
  ```
 Python (core language)
